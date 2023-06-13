@@ -1,6 +1,6 @@
 ﻿using Microsoft.CognitiveServices.Speech;
 using Microsoft.CognitiveServices.Speech.Audio;
-using TextToSpeechAzure;
+using TextToSpeechAzure.Services;
 
 const string speechKey = "d8bbf512f59847f79e72e006f8741510";
 const string speechRegion = "westeurope";
